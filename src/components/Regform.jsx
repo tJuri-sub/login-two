@@ -3,7 +3,7 @@ export const RegForm = () => {
     <div className="shadow-2xl p-3 w-[20%] bg-white rounded-md">
       <img
         className="w-[30%] rounded-md flex m-auto"
-        src="/logo.jpg"
+        src="/logo.png"
         alt="Logo VigiWheel"
       />
       <h1 className="text-center text-2xl">Login</h1>
